@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: anope 1.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-12-25 12:24-0300\n"
-"PO-Revision-Date: 2013-06-03 05:19-0300\n"
+"PO-Revision-Date: 2013-06-18 06:02-0300\n"
 "Last-Translator: Fabio Morais <fabio@netsplit.org>\n"
 "Language-Team: Brazilian Portuguese\n"
 "Language: pt_BR\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 1.5.5\n"
 
 #: modules/commands/cs_xop.cpp:288
 #, c-format
@@ -1977,7 +1977,7 @@ msgstr "Adicionado servidor %s."
 #: modules/commands/os_dns.cpp:276
 #, c-format
 msgid "Added zone %s."
-msgstr ""
+msgstr "Adicionada zona %s."
 
 #: modules/commands/ns_register.cpp:87
 msgid ""
@@ -2030,7 +2030,7 @@ msgstr ""
 
 #: modules/commands/ms_del.cpp:123
 msgid "All of your memos have been deleted."
-msgstr ""
+msgstr "Todas as suas mensagens foram deletadas."
 
 #: modules/commands/os_news.cpp:51
 msgid "All oper news items deleted."
@@ -2994,7 +2994,7 @@ msgstr ""
 
 #: modules/commands/cs_set.cpp:256
 msgid "Chanstats statistics are now disabled for this channel"
-msgstr ""
+msgstr "Estatísticas Chanstats estão agora desabilitadas para esta sala"
 
 #: modules/commands/cs_set.cpp:251
 msgid "Chanstats statistics are now enabled for this channel"
@@ -3390,7 +3390,7 @@ msgstr "Excluída 1 entrada da lista do %s."
 
 #: modules/commands/os_akill.cpp:32
 msgid "Deleted 1 entry from the AKILL list."
-msgstr ""
+msgstr "Apagada 1 entrada da lista de AKILL."
 
 #: modules/commands/cs_xop.cpp:371
 #, c-format
@@ -3983,7 +3983,7 @@ msgstr ""
 
 #: modules/commands/os_forbid.cpp:175
 msgid "Forbid list is empty."
-msgstr ""
+msgstr "A lista de Forbid está vazia."
 
 #: modules/commands/os_forbid.cpp:204
 msgid "Forbid list:"
@@ -4097,7 +4097,7 @@ msgstr ""
 
 #: modules/commands/cs_set.cpp:653
 msgid "Hide channel from LIST command"
-msgstr ""
+msgstr "Esconde a sala do comando LIST"
 
 #: modules/commands/os_session.cpp:185
 #, c-format
@@ -4526,7 +4526,7 @@ msgstr ""
 
 #: modules/commands/os_module.cpp:21
 msgid "Load a module"
-msgstr ""
+msgstr "Carrega o modulo"
 
 #: modules/commands/cs_register.cpp:40
 msgid "Local channels cannot be registered."
@@ -5025,7 +5025,7 @@ msgstr "Modifica a lista de endereços autorizados"
 
 #: modules/commands/cs_access.cpp:449 modules/commands/cs_flags.cpp:303
 msgid "Modify the list of privileged users"
-msgstr ""
+msgstr "Modifica a lista de usuários privilegiados"
 
 #: modules/commands/os_session.cpp:532
 msgid "Modify the session-limit exception list"
@@ -5597,7 +5597,7 @@ msgstr ""
 
 #: modules/commands/ns_info.cpp:116
 msgid "Protection"
-msgstr ""
+msgstr "Proteção"
 
 #: modules/commands/ns_set.cpp:831
 #, c-format
@@ -6320,7 +6320,7 @@ msgstr "Define as opções do apelido, incluindo as proteções"
 
 #: modules/commands/cs_set.cpp:512
 msgid "Set the channel as permanent"
-msgstr ""
+msgstr "Configura uma sala como permanente"
 
 #: modules/commands/cs_set.cpp:277
 msgid "Set the channel description"
@@ -6528,15 +6528,15 @@ msgstr "Desculpe, eu não vi %s."
 
 #: modules/commands/ms_rsend.cpp:48
 msgid "Sorry, RSEND has been disabled on this network."
-msgstr ""
+msgstr "Desculpe, RSEND foi desabilitado nesta rede."
 
 #: include/language.h:136
 msgid "Sorry, bot assignment is temporarily disabled."
-msgstr ""
+msgstr "Desculpe, Sorry, atribuição de bot está temporariamente desabilitada."
 
 #: modules/commands/bs_bot.cpp:264
 msgid "Sorry, bot modification is temporarily disabled."
-msgstr ""
+msgstr "Desculpe, modificação de bot está temporariamente desabilitada."
 
 #: modules/commands/bs_set.cpp:84 modules/commands/bs_set.cpp:146
 #: modules/commands/bs_set.cpp:209 modules/commands/bs_set.cpp:280
@@ -6639,7 +6639,7 @@ msgstr ""
 #: include/language.h:113
 #, c-format
 msgid "Sorry, you have already reached your limit of %d channels."
-msgstr ""
+msgstr "Desculpe, você já atingiu o seu limite de %d salas."
 
 #: modules/commands/cs_seen.cpp:115
 msgid "Statistics and maintenance for seen data"
@@ -7371,7 +7371,7 @@ msgstr ""
 #: modules/commands/ms_set.cpp:153
 #, c-format
 msgid "The memo limit for %s may not be changed."
-msgstr ""
+msgstr "O limite de mensagens para %s não pode ser alterado."
 
 #: modules/commands/ns_set.cpp:380
 #, c-format
@@ -7462,7 +7462,7 @@ msgstr ""
 
 #: modules/commands/os_news.cpp:46
 msgid "There is no oper news."
-msgstr ""
+msgstr "Não existem notícias para oper."
 
 #: modules/commands/os_news.cpp:56
 msgid "There is no random news."
@@ -7744,25 +7744,25 @@ msgstr ""
 
 #: modules/commands/cs_info.cpp:94
 msgid "Topic Lock"
-msgstr ""
+msgstr "Trava de Topico"
 
 #: modules/commands/cs_info.cpp:83
 msgid "Topic Retention"
-msgstr ""
+msgstr "Retenção de Topico"
 
 #: modules/commands/cs_set.cpp:1092
 msgid "Topic can only be changed with TOPIC"
-msgstr ""
+msgstr "Topico pode somente ser alterado com TOPIC"
 
 #: modules/commands/cs_set.cpp:1124
 #, c-format
 msgid "Topic lock option for %s is now off."
-msgstr ""
+msgstr "Trava de topico para %s está agora desligada."
 
 #: modules/commands/cs_set.cpp:1119
 #, c-format
 msgid "Topic lock option for %s is now on."
-msgstr ""
+msgstr "Trava de topico para %s está agora ligada."
 
 #: modules/commands/cs_set.cpp:430
 #, c-format
@@ -7780,7 +7780,7 @@ msgstr "Desligue sua tecla de CAPS LOCK!"
 
 #: modules/commands/ns_set.cpp:285
 msgid "Turn chanstat statistic on or off"
-msgstr ""
+msgstr "Configura estatísticas chanstat on ou off"
 
 #: modules/commands/cs_set.cpp:224
 msgid "Turn chanstat statistics on or off"
@@ -8536,7 +8536,7 @@ msgstr "Sua conta está confirmada."
 #: modules/pseudoclients/nickserv.cpp:277
 #, c-format
 msgid "Your account will expire, if not confirmed, in %s"
-msgstr ""
+msgstr "Sua conta irá expirar, se você não confirmar, em %s"
 
 #: modules/commands/ns_ajoin.cpp:130
 msgid "Your auto join list is full."
